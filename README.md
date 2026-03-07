@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.NET%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
+- 🔭 I’m currently working in Z2Data [App Project](https://www.z2data.com/)
 
 <img src="https://github.com/ahmedelfayoumi2000/ahmedelfayoumi2000/blob/main/profile-img%20(1).png" align="right" width="25%"/>
 <h3 align="left">Connect with me:</h3>
